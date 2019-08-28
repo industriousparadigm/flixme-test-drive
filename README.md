@@ -1,7 +1,6 @@
+![flixme-movies](https://i.ibb.co/KWPSjyW/Screenshot-2019-08-28-at-16-42-55.png)
 
 # flixme
-
-![flixme-movies](https://i.ibb.co/KWPSjyW/Screenshot-2019-08-28-at-16-42-55.png)
 
 FLIXME allows you to browse movies either by "infinitely" scrolling popular movies or performing a title search.
 
