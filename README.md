@@ -32,9 +32,9 @@ If you are unable to run it, I invite you to check out the [YouTube demo](https:
 
 ## Why am I proud of this?
 
-FLIXME was made in 2 weeks, barely a month or two after I first learned to use React and Rails (or to make full stack web apps at all). It was the final project of my Flatiron School bootcamp and I reckon it's a fantastic achievement for this context.
+FLIXME was made from scratch in 2 weeks, barely a month or two after I first learned to use React and Rails (or to make full stack web apps at all). It was the final project of my Flatiron School bootcamp and I reckon it's a fantastic achievement for this context.
 
-My main goal was that people could play with the app without it crashing - I did not want to demo FLIXME by using it myself, but rather by letting users explore it.
+One of my main goals was to enable people to play with the app without it crashing - I did not want to demo FLIXME by carefully using it myself to avoid bugs, but rather by letting users explore it safely.
 
 ### Back-end (Rails)
 
@@ -68,6 +68,6 @@ Today I would implement FLIXME with:
 
 - Redux for state management
 
-MongoDB would be more efficient, because the SQL/serializing format caused slowdowns when trying to fetch a user's rated movies, or a user's friends and their respective movies. GraphQL would help keep the app fast when fetching dozens of movies without needing to query their 20 or so fields.
+MongoDB would be more efficient, because the SQL/serializing format caused slowdowns when trying to fetch a user's rated movies, or a user's friends and their respective movies. GraphQL would help keep the app lean when fetching dozens of movies without needing to query their 20 or so fields.
 
 And then of course add functionalities, like better user authentication, friend requests + acceptance, filters, displaying full lists of a user's rated movies, etc.
